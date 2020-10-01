@@ -2,7 +2,7 @@
 
 You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique.
 
-## What You'll Build
+## What You Are Going To  Build
 
 The end result will be a portfolio that you can deploy publicly! Here's a sample of what this could look like:
 
@@ -17,6 +17,7 @@ We'll dive into a number of basic HTML concepts, including:
 * Using headings to denote importance
 * Adding text using paragraphs
 * Creating links so users can contact you
+*  layout over Different Screens
 
 ## What You'll Need
 
